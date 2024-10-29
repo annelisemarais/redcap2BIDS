@@ -1,7 +1,7 @@
 #README for redcap2BIDS
 
 The current repository extract data from an xlsx file extracted from redcap in order to get a BIDS configuration. 
-An example dataset is available
+An example dataset is provided
 
 Please follow these steps if you want to use the code
 
